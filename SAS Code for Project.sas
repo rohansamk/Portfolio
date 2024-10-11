@@ -1,5 +1,5 @@
 /* Assign a libname to the directory for easier access */
-libname mylib "Z:\Downloads\Multivariate Project";
+libname mylib "\Multivariate Project";
 
 ods graphics on;
 /* Import the imputed data back to SAS */
